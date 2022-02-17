@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    min-width: 100%;
+    background-color: #f3f3f3;
+}
+#div{
+   font-size: 100px;
+   margin-top: 25px; 
+}
